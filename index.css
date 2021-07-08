@@ -55,8 +55,8 @@ html, body{
 @media  screen and (min-width: 768px) and (min-height: 900px){
     #col-container{
         background-image: url('image2.jpg');
-        margin-top: 0px;
-        height: 100%;
+        margin-top: 5%;
+        height: 90%;
         margin-left: 0px;
         margin-right: 0px;
         margin-bottom: 0px;
@@ -184,7 +184,6 @@ html, body{
         height: 95%;
         margin-left: 27%;
         margin-right: 27%;
-        
         overflow: auto;
     }
 
