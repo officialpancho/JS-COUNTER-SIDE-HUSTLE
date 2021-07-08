@@ -35,7 +35,7 @@ html, body{
     #lower{
         background-color: rgb(2, 2, 84);
         color: white;
-        margin-top: 350px;
+        margin-top: 300px;
         border-radius: 8%;
         border-color: rgb(2, 2, 84);
         box-shadow: 0 4px 2px -2px black;
@@ -77,11 +77,11 @@ html, body{
     }
 
     #text{
-        margin-top: 70px;
+        margin-top: 50px;
     }
 
     #lower{
-        margin-top: 30px;
+        margin-top: 25px;
         background-color: rgb(2, 2, 84);
         color: white;
         border-radius: 8%;
@@ -103,6 +103,9 @@ html, body{
     #value{
         font-size: 170px;
         color: green
-}
+    }
 
+    a{
+        margin-top: 20px;
+    }
 }
