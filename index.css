@@ -180,7 +180,7 @@ html, body{
 @media only screen and (min-width: 900px){
     #col-container{
         background-image: url('image2.jpg');
-        margin-top: 5%px;
+        margin-top: 15px;
         height: 95%;
         margin-left: 27%;
         margin-right: 27%;
